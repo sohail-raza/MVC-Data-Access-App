@@ -1,0 +1,13 @@
+﻿body {
+    background: rgb(185,193,241);
+    background: radial-gradient(circle, rgba(185,193,241,1) 0%, rgba(174,175,230,1) 95%);
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    width:25%;
+    height:25%;
+}

@@ -40,7 +40,7 @@ namespace MVCApp.Controllers
                 employees.Add(new EmployeeModel
                 {
                     EmployeeId = row.EmployeeId,
-                    FirstName = row.LastName,
+                    FirstName = row.FirstName,
                     LastName = row.LastName,
                     EmailAddress = row.EmailAddress,
                     ConfirmEmail = row.EmailAddress
