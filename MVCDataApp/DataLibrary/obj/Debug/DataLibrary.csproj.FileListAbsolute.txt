@@ -1,0 +1,9 @@
+C:\Users\Sohail\source\repos\MVCDataApp\DataLibrary\bin\Debug\DataLibrary.dll
+C:\Users\Sohail\source\repos\MVCDataApp\DataLibrary\bin\Debug\DataLibrary.pdb
+C:\Users\Sohail\source\repos\MVCDataApp\DataLibrary\bin\Debug\Dapper.dll
+C:\Users\Sohail\source\repos\MVCDataApp\DataLibrary\bin\Debug\Dapper.xml
+C:\Users\Sohail\source\repos\MVCDataApp\DataLibrary\obj\Debug\DataLibrary.csprojAssemblyReference.cache
+C:\Users\Sohail\source\repos\MVCDataApp\DataLibrary\obj\Debug\DataLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Sohail\source\repos\MVCDataApp\DataLibrary\obj\Debug\DataLibrary.csproj.CopyComplete
+C:\Users\Sohail\source\repos\MVCDataApp\DataLibrary\obj\Debug\DataLibrary.dll
+C:\Users\Sohail\source\repos\MVCDataApp\DataLibrary\obj\Debug\DataLibrary.pdb
